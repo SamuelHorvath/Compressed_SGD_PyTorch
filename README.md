@@ -12,6 +12,5 @@ $ pip install -r requirements.txt
 ### Replicate Experiments
 To run our code see [example notebook](example_notebook.ipynb).
 
-## License
-MIT
+### License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
