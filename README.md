@@ -2,7 +2,7 @@
 
 This implementation is based on PyTorch (1.5.0) in Python (3.8). 
 
-It enables to run simulated distributed optimization with master node on any number of workers based on [PyTorch SGD Optimizer](https://pytorch.org/docs/stable/optim.html#torch.optim.SGD) with gradient compression. Communication can be compressed on both on workers and master level. Error-Feedback is also enabled. For more details, please see our [manuscript](https://arxiv.org/pdf/2006.TBD.pdf)
+It enables to run simulated distributed optimization with master node on any number of workers based on [PyTorch SGD Optimizer](https://pytorch.org/docs/stable/optim.html#torch.optim.SGD) with gradient compression. Communication can be compressed on both on workers and master level. Error-Feedback is also enabled. For more details, please see our [manuscript](https://arxiv.org/pdf/2006.TBD.pdf).
 
 ### Installation
 
