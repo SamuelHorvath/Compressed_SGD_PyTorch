@@ -26,8 +26,5 @@ In case you find this this code useful, please consider citing
 }
 ```
 
-### Contact
-In case of any question, please contact [Samuel Horvath](mailto:samohorvath11@gmail.com).
-
 ### License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
